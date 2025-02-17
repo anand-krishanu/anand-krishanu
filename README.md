@@ -33,7 +33,7 @@ I enjoy problem-solving and am constantly seeking to apply my skills in real-wor
 📩 **Email:** [anandkrishanu26@gmail.com](mailto:anandkrishanu26@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/krishanu-anand-71b87528b/)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=anand-krishanu)
 
 ---
 
