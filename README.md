@@ -23,7 +23,7 @@ I enjoy problem-solving and am constantly seeking to apply my skills in real-wor
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anand-krishanu)](https://git.io/streak-stats)
+![anand-krishanu's Stats](https://github-readme-stats.vercel.app/api?username=anand-krishanu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![anand-krishanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-krishanu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
