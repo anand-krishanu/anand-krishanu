@@ -1,8 +1,6 @@
 ### Hey there! 👋 I'm [Your Name]
 
-![Banner](https://github.com/yourusername/banner-image.png)  
-
-🔹 Full Stack Developer | React & Spring Boot Enthusiast | IoT & ML Explorer
+🔹 Full Stack Developer | React & Spring Boot Enthusiast
 
 ---
 
