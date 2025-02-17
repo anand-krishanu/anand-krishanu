@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm [Your Name]
+### Hey there! 👋 I'm Krishanu Anand
 
 🔹 Full Stack Developer | React & Spring Boot Enthusiast
 
