@@ -1,37 +1,73 @@
-### Hey there! 👋 I'm Krishanu Anand
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm Krishanu Anand</h1>
+<h3 align="center">🚀 3rd Year | Full-Stack Developer | Aspiring AI Engineer</h3>
 
-🔹 Full Stack Developer | React & Spring Boot Enthusiast
-
----
-
-### 🚀 About Me
-I am a second-year Computer Science and Engineering (CSE) student with a passion for technology and a specialization in Full Stack Development. As I dive deeper into both frontend and backend technologies along with Artificial Intelligence and Machine Learning, I am continuously expanding my skill set in languages and frameworks such as Java, Spring, JavaScript, HTML/CSS, Angular, React and databases like MySQL and MongoDB.
-
-I enjoy problem-solving and am constantly seeking to apply my skills in real-world scenarios through projects, freelancing and internships. My goal is to build scalable, efficient, and user-friendly applications that make a meaningful impact.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishanuAnand&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 💫 About Me
+- 🎓 **B.Tech 3rd Year Student**
+- 💻 **Main Stack** → Spring Boot (Backend ❤️)
+- 🛠 Also skilled in React, Docker, Java, JavaScript, MongoDB, MySQL, PostgreSQL
+- 📊 Currently learning Python for ML/DL → Done with NumPy, Pandas, Matplotlib, Scikit-Learn  
+- 🤖 Next goal → **Deep Learning & AI Projects**
+- ⚡ Fun fact → Coffee + Code = Infinite Energy ☕
 
-**Frontend:**  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+---
 
-**Backend:**  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+### 🛠 Tech Stack
 
-**Database & DevOps:**  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+#### **Main Weapon**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,java" height="50"/>
+</p>
+
+#### **Full-Stack Skills**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,docker,mongodb,mysql,postgres" height="50"/>
+</p>
+
+#### **Data Science / AI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="50"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-
-![anand-krishanu's Stats](https://github-readme-stats.vercel.app/api?username=anand-krishanu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![anand-krishanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-krishanu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishanuAnand&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishanuAnand&theme=radical" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishanuAnand&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
-### 📬 Connect With Me
+### 📫 Connect With Me
+<p align="left">
+  <a href="www.linkedin.com/in/krishanu-anand-71b87528b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:anandkrishanu26@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
 
-📩 **Email:** [anandkrishanu26@gmail.com](mailto:anandkrishanu26@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/krishanu-anand-71b87528b/)  
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+Enthusiast;AI+%26+ML+Learner;Always+Building+Cool+Stuff" alt="Typing Animation"/>
+</p>
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=anand-krishanu)
 
