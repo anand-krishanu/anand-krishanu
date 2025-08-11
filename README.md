@@ -2,10 +2,6 @@
 <h1 align="center">Hey there 👋, I'm Krishanu Anand</h1>
 <h3 align="center">🚀 3rd Year | Full-Stack Developer | Aspiring AI Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrishanuAnand&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 💫 About Me
@@ -20,7 +16,7 @@
 
 ### 🛠 Tech Stack
 
-#### **Main Weapon**
+#### **Main Tech **
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,java" height="50"/>
 </p>
@@ -43,11 +39,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishanuAnand&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishanuAnand&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anand-krishanu&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-krishanu&theme=radical" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishanuAnand&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-krishanu&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
@@ -65,9 +61,10 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+Enthusiast;AI+%26+ML+Learner;Always+Building+Cool+Stuff" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building with intent;Learning fast, shipping faster;Always+Building+Cool+Stuff" alt="Typing Animation"/>
 </p>
 
+---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=anand-krishanu)
 
