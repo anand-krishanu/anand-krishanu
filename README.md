@@ -10,13 +10,13 @@
 - 🛠 Also skilled in React, Docker, Java, JavaScript, MongoDB, MySQL, PostgreSQL
 - 📊 Currently learning Python for ML/DL → Done with NumPy, Pandas, Matplotlib, Scikit-Learn  
 - 🤖 Next goal → **Deep Learning & AI Projects**
-- ⚡ Fun fact → Coffee + Code = Infinite Energy ☕
+- ⚡ Fun fact → Coffee + Code = Infinite Energy ☕  
 
 ---
 
 ### 🛠 Tech Stack
 
-#### **Main Tech **
+#### **Main Tech**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,java" height="50"/>
 </p>
@@ -40,7 +40,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anand-krishanu&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-krishanu&theme=radical" height="170"/></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-krishanu&theme=radical" height="170"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-krishanu&layout=compact&theme=radical" height="170"/>
 </p>
@@ -49,7 +50,7 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/krishanu-anand-71b87528b" target="_blank">
+  <a href="https://www.linkedin.com/in/krishanu-anand-71b87528b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:anandkrishanu26@gmail.com" target="_blank">
@@ -59,8 +60,9 @@
 
 ---
 
+<!-- Fixed Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building with intent;Learning fast, shipping faster;Always+Building+Cool+Stuff" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+with+intent;Learning+fast,+shipping+faster;Always+Building+Cool+Stuff&cacheBust=1" alt="Typing Animation"/>
 </p>
 
 ---
