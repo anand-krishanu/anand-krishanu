@@ -10,7 +10,6 @@
 - 🛠 Also skilled in React, Docker, Java, JavaScript, MongoDB, MySQL, PostgreSQL
 - 📊 Currently learning Python for ML/DL → Done with NumPy, Pandas, Matplotlib, Scikit-Learn  
 - 🤖 Next goal → **Deep Learning & AI Projects**
-- ⚡ Fun fact → Coffee + Code = Infinite Energy ☕  
 
 ---
 
