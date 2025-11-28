@@ -37,12 +37,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand-krishanu&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-krishanu&theme=radical" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-krishanu&layout=compact&theme=radical" height="170"/>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=anand-krishanu&show_icons=true&theme=radical" height="170"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-krishanu&theme=radical" height="170"/> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-krishanu&layout=compact&theme=radical&hide=Jupyter%20Notebook&langs_count=10&v=3" height="170"/> 
 </p>
 
 ---
