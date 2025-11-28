@@ -6,8 +6,8 @@
 
 ### 💫 About Me
 - 🎓 **B.Tech 3rd Year Student**
-- 💻 **Main Stack** → Spring Boot (Backend ❤️)
-- 🛠 Also skilled in React, Docker, Java, JavaScript, MongoDB, MySQL, PostgreSQL
+- 💻 **Main Stack** → Java, Spring Boot (Backend ❤️)
+- 🛠 Also skilled in React, Docker, JavaScript, MongoDB, MySQL, PostgreSQL
 - 📊 Currently learning Python for ML/DL → Done with NumPy, Pandas, Matplotlib, Scikit-Learn  
 - 🤖 Next goal → **Deep Learning & AI Projects**
 
