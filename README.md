@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm Krishanu Anand</h1>
-<h3 align="center">🚀 3rd Year | Full-Stack Developer | Aspiring AI Engineer</h3>
+<h3 align="center">🚀 3rd Year | Full-Stack Developer | Aspiring ML Engineer</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 - 💻 **Main Stack** → Java, Spring Boot (Backend ❤️)
 - 🛠 Also skilled in React, Docker, JavaScript, MongoDB, MySQL, PostgreSQL
 - 📊 Currently learning Python for ML/DL → Done with NumPy, Pandas, Matplotlib, Scikit-Learn  
-- 🤖 Next goal → **Deep Learning & AI Projects**
+- 🤖 Next goal → **Deep Learning & ML Projects**
 
 ---
 
