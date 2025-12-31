@@ -1,19 +1,19 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm Krishanu Anand</h1>
-<h3 align="center">🚀 3rd Year | Full-Stack Developer | Aspiring ML Engineer</h3>
+<h1 align="center">Hey there , I'm Krishanu Anand</h1>
+<h3 align="center">3rd Year | Full-Stack Developer | Aspiring ML Engineer</h3>
 
 ---
 
-### 💫 About Me
-- 🎓 **B.Tech 3rd Year Student**
-- 💻 **Main Stack** → Java, Spring Boot (Backend ❤️)
-- 🛠 Also skilled in React, Docker, JavaScript, MongoDB, MySQL, PostgreSQL
-- 📊 Currently learning Python for ML/DL → Done with NumPy, Pandas, Matplotlib, Scikit-Learn  
-- 🤖 Next goal → **Deep Learning & ML Projects**
+###  About Me
+-  **B.Tech 3rd Year Student**
+-  **Main Stack** → Java, Spring Boot
+-  Also skilled in React, Docker, JavaScript, MongoDB, MySQL, PostgreSQL
+-  Currently learning Python for ML/DL → Done with NumPy, Pandas, Matplotlib, Scikit-Learn  
+-  Next goal → **Deep Learning & ML Projects**
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 #### **Main Tech**
 <p align="left">
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anand-krishanu&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-krishanu&theme=radical" height="170"/>
@@ -48,7 +48,7 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/krishanu-anand-71b87528b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -60,7 +60,6 @@
 
 ---
 
-<!-- Fixed Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+with+intent;Learning+fast,+shipping+faster;Always+Building+Cool+Stuff&cacheBust=1" alt="Typing Animation"/>
 </p>
